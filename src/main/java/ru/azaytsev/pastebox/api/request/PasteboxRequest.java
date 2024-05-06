@@ -3,7 +3,7 @@ package ru.azaytsev.pastebox.api.request;
 import lombok.Data;
 
 @Data
-public class PasteBoxRequest {
+public class PasteboxRequest {
 
     private String data;
 
